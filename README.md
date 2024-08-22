@@ -1,5 +1,4 @@
-# GUI Scientific Calculator 
-<a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/">(click here for more C/C++ codes)</a>
+# GUI Scientific Calculator
 
 
 This is a C Programming Language of basic and few Advance Scientific features of Calculator. 
