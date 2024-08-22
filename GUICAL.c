@@ -1,25 +1,6 @@
 /*-------------------------------------------------------------------------
 
-          GUI Scientific Calculator 
-
-Programmer     : Nemonet
-                 The Young Programmer 💻
-
-
-Software Details
-====================
-Developed in   : C
-Compiler used  : Turbo C++ 3.0
-Date           : 20/05/2022 -- 31/05/2022
-
-Licence   : MIT Licence
-(Please give the credit of programming to author.)
-
-
-NOTE:
-
-
----------------------------------------------------------------------------*/
+          GUI Scientific Calculator
 
 
 
